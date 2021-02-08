@@ -1,4 +1,4 @@
-# BlueFox - Single Sensor Occupancy Screen
+# BlueFox - Multi Sensor Occupancy Screen
 
 ## Getting started
 
