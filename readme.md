@@ -12,7 +12,7 @@ https://artemis-psq.bluefoxengage.com/login (Europe & Asia)
 
 3. Run index.html with a web browser such as Google Chrome.
 
-4. Realtime occupancy information from each sensor will be displayed within the count guage on the page.
+4. Realtime occupancy information from each sensor will be displayed within the count gauge on the page.
 
 5. Explore the BlueFox Fetch API through our documentation listed below.
 
