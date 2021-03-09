@@ -34,7 +34,7 @@ When requests are made too frequently to the API, code 429 may be returned as HT
 
 ## BlueFox API Documentation
 
-A full list of API endpoints is available in our documentation: [BlueFox Fetch API](https://bluefox.io/bluefox-fetch-api.pdf)
+A full list of API endpoints is available in our documentation: [BlueFox Fetch API](https://api.bluezoo.io/)
 
 
 ### Libraries
