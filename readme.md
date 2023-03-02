@@ -1,8 +1,8 @@
-# BlueFox - Multi Sensor Occupancy Screen
+# BlueZoo - Multi Sensor Occupancy Screen
 
 ## Getting started
 
-1. Fetch API access must be enabled for your account and each sensor through the BlueFox Cloud Platform Dashboard.
+1. Fetch API access must be enabled for your account and each sensor through the BlueZoo Cloud Platform Dashboard.
 
 https://apollo-psq.bluefoxengage.com/login (Americas)
 
@@ -14,9 +14,9 @@ https://artemis-psq.bluefoxengage.com/login (Europe & Asia)
 
 4. Realtime occupancy information from each sensor will be displayed within the count gauge on the page.
 
-5. Explore the BlueFox Fetch API through our documentation listed below.
+5. Explore the BlueZoo Fetch API through our documentation listed below.
 
-## Structure of a BlueFox Fetch API request
+## Structure of a BlueZoo Fetch API request
 
 To form a request URL for a given endpoint, simply append the endpoint name to the base URL.
 
@@ -32,9 +32,9 @@ Each successful HTTP request should return 200 as HTTP Status Code.
 
 When requests are made too frequently to the API, code 429 may be returned as HTTP Status Code.
 
-## BlueFox API Documentation
+## BlueZoo API Documentation
 
-A full list of API endpoints is available in our documentation: [BlueFox Fetch API](https://api.bluezoo.io/)
+A full list of API endpoints is available in our documentation: [BlueZoo Fetch API](https://api.bluezoo.io/)
 
 
 ### Libraries
